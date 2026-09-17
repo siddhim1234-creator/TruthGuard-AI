@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Machine-specific files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python ML generated files
+*.pkl
+*.joblib
+
+# Large datasets
+*.csv
+*.zip
+
+# Logs
+*.log
